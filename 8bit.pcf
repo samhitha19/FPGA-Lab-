@@ -1,0 +1,19 @@
+set_io clk R9
+
+set_io X[0] N9 
+set_io X[1] P9
+set_io X[2] M8
+set_io X[3] N7
+set_io X[4] L9
+set_io X[5] G5
+set_io X[6] L7
+set_io X[7] N6
+
+set_io prod[0] R10 
+set_io prod[1] T11
+set_io prod[2] T14
+set_io prod[3] T15
+set_io prod[4] T9
+set_io prod[5] T10
+set_io prod[6] T13
+set_io prod[7] T14
